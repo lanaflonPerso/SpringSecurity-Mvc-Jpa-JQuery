@@ -1,7 +1,7 @@
 # creditcard
-Credit Card Management Web App
+Credit Card Management Java EE WebbApp
 
-This Java EE WebbApp is only for practical demonstration purpose ; I used voluntarily different programming techiques to develop similar
+This software is only for practical demonstration purpose ; I used voluntarily different programming techiques to develop similar
 things. Used technology  : Spring Core, Spring Mvc, Spring Security, Spring Tag, Jstl, Html5, JQuery, Creditly.js PlugIn (M.i.t. license),
 Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Web Server Target : apache-tomcat-7.0.53.
 
