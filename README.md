@@ -6,7 +6,7 @@ things. Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, Spr
 
 Objective : Small Credit Card Web Form user and password protected ; Save data ; Data validation ; Search data ; User Registration.
 
-- 2 active users already exist (Administrator unsername=admin | password=123456 ; Normal User : unsername=mauro|password=123456)
+- 2 active users already exist (Administrator unsername=admin | password=123456 ; Normal User : unsername=mauro | password=123456)
 
 - Inside "script" folder you can find mysqlDbScript.sql to generate MySql database tables. Please note that the Db name is "test".
 
