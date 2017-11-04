@@ -16,3 +16,5 @@ Objective : Small Credit Card Web Form user and password protected ; Save data ;
 
 - For the user registration section, in order to show how works a page in case of error, I voluntarily induce an exception
 if you first register a user and after you try to register the same user again.
+__________________________________
+July 2017 - @author : Mauro Camelo
