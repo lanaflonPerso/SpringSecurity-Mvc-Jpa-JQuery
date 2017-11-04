@@ -6,6 +6,8 @@ things. Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, BCr
 
 Objective : Simple and smart credit card web form ; Crypted user & password login security ; User registration ; Data validation ; Save/Search/Display data ;
 
+Please note :
+
 - 2 active users already exist (Administrator unsername=admin | password=123456 ; Normal User : unsername=mauro | password=123456)
 
 - Inside "script" folder you can find mysqlDbScript.sql to generate MySql database tables. Please note that the Db name is "test".
