@@ -3,7 +3,7 @@ Credit Card Management Java EE WebbApp
 
 This software is only for practical demonstration purpose ; I used voluntarily different programming techiques to develop similar
 things. Used technology  : Spring Core, Spring Mvc, Spring Security, Spring Tag, Jstl, Html5, JQuery, Creditly.js PlugIn (M.i.t. license),
-Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Web Server Target : apache-tomcat-7.0.53.
+Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Maven, Web Server Target : Apache-Tomcat-7.0.53.
 
 Objective : Small Credit Card Web Form user and password protected ; Save data ; Data validation ; Search data ; User Registration.
 
