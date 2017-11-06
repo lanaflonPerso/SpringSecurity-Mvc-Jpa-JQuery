@@ -18,4 +18,11 @@ Please note :
 - For the user registration section, in order to show how works a page in case of error, I voluntarily induce an exception
 if you first register a user and after you try to register the same user again.
 __________________________________
+
+UML CLASS DIAGRAM
+
+<img src="https://user-images.githubusercontent.com/30404707/32435701-f6387c08-c2e1-11e7-82c8-cc3d127446a3.png"/>
+
+__________________________________
+
 July 2017 - @author : Mauro Camelo
