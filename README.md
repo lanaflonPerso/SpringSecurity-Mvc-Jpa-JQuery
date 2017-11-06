@@ -4,6 +4,8 @@ Credit Card Management Java EE/DB driven WebbApp
 Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, BCrypt, Spring Tag, Jstl, Html5, JQuery, Creditly.js PlugIn (M.i.t. license), Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Maven, Git, Web Server Target : Apache-Tomcat-7.0.53.</strong>
 
 Objective : Simple and smart credit card web form ; Crypted user & password login security ; User registration ; Data validation ; Save/Search/Display data ;
+
+<a href="https://user-images.githubusercontent.com/30404707/32435701-f6387c08-c2e1-11e7-82c8-cc3d127446a3.png" target="new">Click here to enlarge WebApp UML Class Diagram</a>
 ________________________________
 
 Please note :
@@ -17,12 +19,6 @@ Please note :
 
 - For the user registration section, in order to show how works a page in case of error, I voluntarily induce an exception
 if you first register a user and after you try to register the same user again.
-__________________________________
-
-UML CLASS DIAGRAM
-
-<img src="https://user-images.githubusercontent.com/30404707/32435701-f6387c08-c2e1-11e7-82c8-cc3d127446a3.png"/>
-
 __________________________________
 
 July 2017 - @author : Mauro Camelo
