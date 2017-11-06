@@ -5,9 +5,9 @@ Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, BCrypt, Spr
 
 Objective : Simple and smart credit card web form ; Crypted user & password login security ; User registration ; Data validation ; Save/Search/Display data ;
 
-<a href="https://user-images.githubusercontent.com/30404707/32436354-1561fc6a-c2e4-11e7-8f94-294733643632.png" target="_blank">Click here to enlarge WebApp UML Class Diagram</a>
+<a href="https://user-images.githubusercontent.com/30404707/32436354-1561fc6a-c2e4-11e7-8f94-294733643632.png" target="_blank">Click here to enlarge UML Class Diagram</a>
 
-<a href="https://user-images.githubusercontent.com/30404707/32436839-9dedcc52-c2e5-11e7-8233-6cf193f891a0.png" target="_blank">Click here to enlarge WebApp UML Entity Diagram</a>
+<a href="https://user-images.githubusercontent.com/30404707/32436839-9dedcc52-c2e5-11e7-8233-6cf193f891a0.png" target="_blank">Click here to enlarge UML Entity Diagram</a>
 
 ________________________________
 
