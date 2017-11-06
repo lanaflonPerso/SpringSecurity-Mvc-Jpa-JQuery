@@ -1,8 +1,6 @@
 # creditcard
 Credit Card Management Java EE/DB driven WebbApp
 
-<img src="https://user-images.githubusercontent.com/30404707/32433511-7fab1916-c2db-11e7-8056-8921f63c5a1d.png"/>
-
 Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, BCrypt, Spring Tag, Jstl, Html5, JQuery, Creditly.js PlugIn (M.i.t. license), Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Maven, Git, Web Server Target : Apache-Tomcat-7.0.53.</strong>
 
 Objective : Simple and smart credit card web form ; Crypted user & password login security ; User registration ; Data validation ; Save/Search/Display data ;
