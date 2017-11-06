@@ -1,5 +1,5 @@
 # creditcard
-<font size="5">Credit Card Management Java EE/DB driven WebbApp</font>
+Credit Card Management Java EE/DB driven WebbApp
 
 Used technology  : <strong>Spring Core, Spring Mvc, Spring Security, BCrypt, Spring Tag, Jstl, Html5, JQuery, Creditly.js PlugIn (M.i.t. license), Typeahead.js Twitter PlugIn, Hibernate, MySql Database, Logback, Maven, Git, Web Server Target : Apache-Tomcat-7.0.53.</strong>
 
