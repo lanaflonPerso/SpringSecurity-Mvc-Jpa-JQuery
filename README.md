@@ -1,4 +1,4 @@
-# Credit Card Management Java EE/DB driven FrontEnd & BackEnd WebbApp
+# Credit Card Management Java EE/DB driven FrontEnd & BackEnd
 
 Type : Java EE 7 archetype
 
